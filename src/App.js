@@ -5,7 +5,7 @@ import ListaContactos from './components/ListaContacto.component';
 function App() {
   return (
     <Contenedor>
-      <Titulo>LISTA DE CONTACTOS</Titulo>
+      <Titulo>CONTACTOS</Titulo>
       <Formulario/>
       <ListaContactos/>
     </Contenedor>
